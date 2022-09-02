@@ -59,7 +59,7 @@ def main():
     print ("Kofi Bekoe")
   elif student == Andrew :
     print ("Andrew Chau")
-  elif student == :
+  elif student == Roshaun :
     print ("Roshaun Sanders")
   elif student == Ashton:
     print ("Ashton Baker")
