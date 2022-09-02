@@ -17,7 +17,7 @@ Andrew = ["10","j","a","bh"]
 Roshaun = ["61","sh","bl","o"]
 Ashton = ["9","j","wh","bl"]
 def main():
-  height=input("how tall are you? put 0-11 if you're 5'0\"-5'11\", put a 4 along with the letter if you're below 5 feet tall, or a 6 if you're above (65,43,68,etc):  ")
+  height=input("how tall are you? put 0-11 if you're 5'0\"-5'11\", put a 4 along with the number if you're below 5 feet tall, or a 6 if you're above (65,43,68,etc):  ")
   print("")
   student.append(height)
   pants=input("Do you wear jeans(j), shorts(sh), or sweatpants(swe): ")
